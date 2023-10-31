@@ -1,0 +1,158 @@
+[
+    {
+        "sigla": "AC",
+        "nome": "ACRE",
+        "capital": false,
+        "siglaUnidadeSuperior": "BR"
+    },
+    {
+        "sigla": "AL",
+        "nome": "ALAGOAS",
+        "capital": false,
+        "siglaUnidadeSuperior": "BR"
+    },
+    {
+        "sigla": "AP",
+        "nome": "AMAPÁ",
+        "capital": false,
+        "siglaUnidadeSuperior": "BR"
+    },
+    {
+        "sigla": "AM",
+        "nome": "AMAZONAS",
+        "capital": false,
+        "siglaUnidadeSuperior": "BR"
+    },
+    {
+        "sigla": "BA",
+        "nome": "BAHIA",
+        "capital": false,
+        "siglaUnidadeSuperior": "BR"
+    },
+    {
+        "sigla": "CE",
+        "nome": "CEARÁ",
+        "capital": false,
+        "siglaUnidadeSuperior": "BR"
+    },
+    {
+        "sigla": "ES",
+        "nome": "ESPÍRITO SANTO",
+        "capital": false,
+        "siglaUnidadeSuperior": "BR"
+    },
+    {
+        "sigla": "GO",
+        "nome": "GOIÁS",
+        "capital": false,
+        "siglaUnidadeSuperior": "BR"
+    },
+    {
+        "sigla": "MA",
+        "nome": "MARANHÃO",
+        "capital": false,
+        "siglaUnidadeSuperior": "BR"
+    },
+    {
+        "sigla": "MT",
+        "nome": "MATO GROSSO",
+        "capital": false,
+        "siglaUnidadeSuperior": "BR"
+    },
+    {
+        "sigla": "MS",
+        "nome": "MATO GROSSO DO SUL",
+        "capital": false,
+        "siglaUnidadeSuperior": "BR"
+    },
+    {
+        "sigla": "MG",
+        "nome": "MINAS GERAIS",
+        "capital": false,
+        "siglaUnidadeSuperior": "BR"
+    },
+    {
+        "sigla": "PR",
+        "nome": "PARANÁ",
+        "capital": false,
+        "siglaUnidadeSuperior": "BR"
+    },
+    {
+        "sigla": "PB",
+        "nome": "PARAÍBA",
+        "capital": false,
+        "siglaUnidadeSuperior": "BR"
+    },
+    {
+        "sigla": "PA",
+        "nome": "PARÁ",
+        "capital": false,
+        "siglaUnidadeSuperior": "BR"
+    },
+    {
+        "sigla": "PE",
+        "nome": "PERNAMBUCO",
+        "capital": false,
+        "siglaUnidadeSuperior": "BR"
+    },
+    {
+        "sigla": "PI",
+        "nome": "PIAUÍ",
+        "capital": false,
+        "siglaUnidadeSuperior": "BR"
+    },
+    {
+        "sigla": "RJ",
+        "nome": "RIO DE JANEIRO",
+        "capital": false,
+        "siglaUnidadeSuperior": "BR"
+    },
+    {
+        "sigla": "RN",
+        "nome": "RIO GRANDE DO NORTE",
+        "capital": false,
+        "siglaUnidadeSuperior": "BR"
+    },
+    {
+        "sigla": "RS",
+        "nome": "RIO GRANDE DO SUL",
+        "capital": false,
+        "siglaUnidadeSuperior": "BR"
+    },
+    {
+        "sigla": "RO",
+        "nome": "RONDÔNIA",
+        "capital": false,
+        "siglaUnidadeSuperior": "BR"
+    },
+    {
+        "sigla": "RR",
+        "nome": "RORAIMA",
+        "capital": false,
+        "siglaUnidadeSuperior": "BR"
+    },
+    {
+        "sigla": "SC",
+        "nome": "SANTA CATARINA",
+        "capital": false,
+        "siglaUnidadeSuperior": "BR"
+    },
+    {
+        "sigla": "SE",
+        "nome": "SERGIPE",
+        "capital": false,
+        "siglaUnidadeSuperior": "BR"
+    },
+    {
+        "sigla": "SP",
+        "nome": "SÃO PAULO",
+        "capital": false,
+        "siglaUnidadeSuperior": "BR"
+    },
+    {
+        "sigla": "TO",
+        "nome": "TOCANTINS",
+        "capital": false,
+        "siglaUnidadeSuperior": "BR"
+    }
+]
